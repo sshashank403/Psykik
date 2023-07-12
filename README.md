@@ -26,8 +26,7 @@
 
 ### Authors
 
-* **Nikita Singh** - [nikitasingh123](https://github.com/nikitasingh123) 
-* **Other Contributors** to this project - *Ananya Goswami, Arshdeep Kainth, Sabara Parshad Rajeshbhai, Mohit Chauhan*
+* **Shashank Singh** - [sshashank403](https://github.com/sshashank403) 
 
 ### License
 
